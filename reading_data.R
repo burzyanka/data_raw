@@ -14,3 +14,6 @@ sum(is.na(data_1$lastvotecanada_21))
 sum(is.na(data_1$lastvotebrazil))
 data_1 %>% unique(Glob_Ukraine_Causes_1)
 unique(data_1$Glob_Ukraine_Causes_1)
+
+data_1$Glob_Ukraine_Causes_1
+unique(data_1$Glob_Ukraine_Causes_4)
