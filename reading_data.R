@@ -18,5 +18,6 @@ unique(data_1$Glob_Ukraine_Causes_1)
 data_1$Glob_Ukraine_Causes_1
 unique(data_1$Glob_Ukraine_Causes_4)
 unique(data_1$Glob_Ukraine_Causes_3)
+unique(data_1$Glob_Ukraine_Causes_3)
 
 
